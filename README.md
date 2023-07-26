@@ -1,6 +1,8 @@
 # Full-Stack-Java-Training
 Java + JSP + Restful WS + Spring
 
+IDE: Eclipse 
+
 ----------------------------------
 
 1. Section 3 - Java: Getting Started.
