@@ -17,4 +17,4 @@ IDE: Eclipse
 10. Section 12 - Java: Collections continues.
 11. Section 13 - Java: Multi-threading - Concurrency control in Java.
 12. Section 14 - Java: Lambda expression - basics.
-13. Section 15 - Java: File Handling unde Java.
+13. Section 15 - Java: File Handling using Java.
